@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/tester/static/js/main.70c0b4ba.chunk.js",
-    "main.js.map": "/tester/static/js/main.70c0b4ba.chunk.js.map",
-    "runtime-main.js": "/tester/static/js/runtime-main.bc7552cb.js",
-    "runtime-main.js.map": "/tester/static/js/runtime-main.bc7552cb.js.map",
-    "static/js/2.0d86c7f9.chunk.js": "/tester/static/js/2.0d86c7f9.chunk.js",
-    "static/js/2.0d86c7f9.chunk.js.map": "/tester/static/js/2.0d86c7f9.chunk.js.map",
-    "static/js/3.b34e830f.chunk.js": "/tester/static/js/3.b34e830f.chunk.js",
-    "static/js/3.b34e830f.chunk.js.map": "/tester/static/js/3.b34e830f.chunk.js.map",
-    "static/js/4.047e3eab.chunk.js": "/tester/static/js/4.047e3eab.chunk.js",
-    "static/js/4.047e3eab.chunk.js.map": "/tester/static/js/4.047e3eab.chunk.js.map",
+    "main.js": "/tester/static/js/main.6943e782.chunk.js",
+    "main.js.map": "/tester/static/js/main.6943e782.chunk.js.map",
+    "runtime-main.js": "/tester/static/js/runtime-main.1978345f.js",
+    "runtime-main.js.map": "/tester/static/js/runtime-main.1978345f.js.map",
+    "static/js/2.3a17a432.chunk.js": "/tester/static/js/2.3a17a432.chunk.js",
+    "static/js/2.3a17a432.chunk.js.map": "/tester/static/js/2.3a17a432.chunk.js.map",
+    "static/js/3.8fe1addc.chunk.js": "/tester/static/js/3.8fe1addc.chunk.js",
+    "static/js/3.8fe1addc.chunk.js.map": "/tester/static/js/3.8fe1addc.chunk.js.map",
     "index.html": "/tester/index.html",
-    "static/js/2.0d86c7f9.chunk.js.LICENSE.txt": "/tester/static/js/2.0d86c7f9.chunk.js.LICENSE.txt",
-    "static/js/3.b34e830f.chunk.js.LICENSE.txt": "/tester/static/js/3.b34e830f.chunk.js.LICENSE.txt",
-    "static/media/error.a9f72bb4.jpeg": "/tester/static/media/error.a9f72bb4.jpeg"
+    "static/js/2.3a17a432.chunk.js.LICENSE.txt": "/tester/static/js/2.3a17a432.chunk.js.LICENSE.txt",
+    "static/media/background-qa-ind.367de2af.png": "/tester/static/media/background-qa-ind.367de2af.png",
+    "static/media/background-qa-ukr.abeb2155.png": "/tester/static/media/background-qa-ukr.abeb2155.png",
+    "static/media/background-staging.6c29ebeb.png": "/tester/static/media/background-staging.6c29ebeb.png",
+    "static/media/pr.107feede.png": "/tester/static/media/pr.107feede.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc7552cb.js",
-    "static/js/2.0d86c7f9.chunk.js",
-    "static/js/main.70c0b4ba.chunk.js"
+    "static/js/runtime-main.1978345f.js",
+    "static/js/2.3a17a432.chunk.js",
+    "static/js/main.6943e782.chunk.js"
   ]
 }
